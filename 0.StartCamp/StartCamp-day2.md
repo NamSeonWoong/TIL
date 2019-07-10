@@ -116,3 +116,5 @@ naver = soup.select_one("#PM_ID_ct > div.header > div.section_navbar > div.area_
 print(naver.text)
 ```
 
+
+
