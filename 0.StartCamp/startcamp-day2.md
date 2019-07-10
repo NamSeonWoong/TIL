@@ -1,4 +1,4 @@
-# startcamp-day2
+# StartCamp-day2
 ## CLI= command line interface   (항상 자신이 어디에 있는지 확인!!)
 ## Git-bash 명령어
 	ls 	  	리스트 보여주기
